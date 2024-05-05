@@ -10,6 +10,7 @@ xandr.com, 13799, RESELLER
 media.net, 8CUD06Z68, RESELLER
 #meta
 facebook.com, 126919290369126, DIRECT, c3e20eee3f780d68
+facebook.com, 725587001540456, DIRECT, c3e20eee3f780d68
 #mintegral
 mintegral.com, 39670, DIRECT, 0aeed750c80d6423
 pokkt.com, 7139, RESELLER, c45702d9311e25fd
