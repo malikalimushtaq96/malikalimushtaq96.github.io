@@ -1007,6 +1007,16 @@ criteo.com, WS2D8N, RESELLER, 35d5010d7789b49d
 onlinemediasolutions.com, 43275, RESELLER, b3868b187e4b6402
 inmobi.com, 23d316d3d980453d8ea0dcf9caec4078, RESELLER, 83e75a7ae333ca9d
 video.unrulymedia.com, 169764768, RESELLER
+criteo.com, TERO1F, RESELLER, 35d5010d7789b49d
+criteo.com, TVX1JK, RESELLER, 35d5010d7789b49d
+themediagrid.com, TERO1F, RESELLER, 35d5010d7789b49d
+themediagrid.com, TVX1JK, RESELLER, 35d5010d7789b49d
+cgnl.io, 7000, RESELLER
+cignal.io, 7000, RESELLER
+carambo.la, 914730833, RESELLER
+openx.com, 537140323, RESELLER, 6a698e2ec38604c6
+pubmatic.com, 159626, RESELLER, 5d62403b186f2ace
+pubmatic.com, 166836, RESELLER, 5d62403b186f2ace
 
 #unity-ads
 undertone.com, 4108, RESELLER
@@ -1320,6 +1330,7 @@ pubmatic.com, 167130, RESELLER, 5d62403b186f2ace
 #meta
 facebook.com, 126919290369126, DIRECT, c3e20eee3f780d68
 facebook.com, 126919290369126, RESELLER, c3e20eee3f780d68
+
 
 
 
